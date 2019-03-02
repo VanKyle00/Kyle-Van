@@ -14,8 +14,8 @@ E-mail: van.kyle00@gmail.com
 
 ### Skills
 - Primary Languages: Java
-- Secondary Languages - C++
-- Foreign Languages - English, Spanish
+- Secondary Languages - C++, HTML, CSS, PHP
+- Foreign Languages - Spanish
 
 ### Certificaitons & Awwars
 - NCP 5.5 Certified
