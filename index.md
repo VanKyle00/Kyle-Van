@@ -20,7 +20,7 @@ E-mail: van.kyle00@gmail.com
 ### Certificaitons & Awwars
 - NCP 5.5 Certified
 - AWS Certified Cloud Practitoner
-- California State Seal of Bi-Literacy (English and Spanish)
+- California State Seal of Biliteracy (English and Spanish)
 
 ### Work Experience
   + iDRLink Solutions, LLC
