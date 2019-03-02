@@ -1,29 +1,26 @@
-## Welcome to GitHub Pages
+# Résumé
+## Kyle Van
 
-You can use the [editor on GitHub](https://github.com/VanKyle00/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Contact Info:
+E-mail: van.kyle00@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+ - Carlsbad High School 2016-2018 
 
-### Markdown
+### Skills
+- Primary Languages: Java. English
+- Secondary Languages - C++, Spanish
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Certificaitons
+- NCP 5.5 Certified
+- AWS Certified Cloud Practitoner
 
-```markdown
-Syntax highlighted code block
+### Work Experience
+  + iDRLink Solutions, LLC
+      - System Engineer (Nov. 2018 - Present)
+      - Provides technical direction and support for iDRLink and its customer base. Delivering enterprise solutions through design, plan, and implementation. Reccomend IT solutions that fit high-end enterprise customers and IT organizations. Draft proposals to deliver high quality services.
+      
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
