@@ -7,7 +7,7 @@ I started programming with Lua in video games in my early life. Throughout my fu
 
 
 ### Contact Info:
-E-mail: van.kyle00@gmail.com
+E-mail: Kyle.Van@iDRLink.com 
 
 ### Education
  - Carlsbad High School 2016-2018 
